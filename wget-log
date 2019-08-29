@@ -1,0 +1,15 @@
+--2019-08-28 18:28:47--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fknowtechie.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fleague-of-legends.jpg
+Resolving www.google.com (www.google.com)... 172.217.4.164, 2607:f8b0:4007:800::2004
+Connecting to www.google.com (www.google.com)|172.217.4.164|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2019-08-28 18:28:48--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fknowtechie.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fleague-of-legends.jpg’
+
+               imgres?imgurl=     [<=>                                               ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fkno     [ <=>                                              ]  11.24K  --.-KB/s    in 0.001s  
+
+2019-08-28 18:28:48 (12.2 MB/s) - ‘imgres?imgurl=https:%2F%2Fknowtechie.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fleague-of-legends.jpg’ saved [11509]
+
